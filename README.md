@@ -9,4 +9,4 @@
 - 📫 Me puedes encontrar en mi correo : pavacrurro@gmail.com o mi LinkedIn : https://www.linkedin.com/in/paulacruzrodriguez
 - 😄 Puedes llamarme Pau o Pava
 - ⚡ Soy Workcoholic y se hablar varios idiomas, entre esos ingles y frances
---> Los Lenguajes de programacion que manejo son principalmente: PYTHON , MYSQL Y JAVA
+--> Los Lenguajes de programacion y herramientas que manejo son principalmente: PYTHON , SELENIUM, ANDROID STUDIO, POSTMAN, GIT, GITHUB, JIRA, DEVTOOLS, BASH, SQL, JAVA
