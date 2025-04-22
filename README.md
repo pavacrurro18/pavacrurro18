@@ -1,4 +1,4 @@
-## Hola Soy Paula y les doy una Cordial Bienvenida 👋
+## Hola Soy Paula y Bienvenidos a mi perfil 👋
 
 
 - 🔭 Actualmente estoy trabajando en el area de recursos humanos de una empresa que comercializa productos naturales y de bienestar para la salud 
