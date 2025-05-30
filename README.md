@@ -8,3 +8,4 @@
 - 😄 Puedes llamarme Pau o Pava
 - ⚡ Soy Workcoholic y se hablar varios idiomas, entre esos ingles y español
 --> Los Lenguajes de programacion y herramientas que manejo son principalmente: PYTHON , SELENIUM, ANDROID STUDIO, POSTMAN, GIT, GITHUB, JIRA, DEVTOOLS, BASH, SQL, JAVA
+- Algunos de los proyectos que he realizado los puedes encontrar aqui : https://drive.google.com/drive/folders/19QQpCTGrBjls1IofIEUQfJAZRqbfEQiT?usp=drive_link
